@@ -340,7 +340,7 @@ router.post("/generate" ,async (req,res)=>{
     console.log(req.body.rules) ;
     const TimeTable_item = await TimeTable.create({timetable : ans , slots : req.body.rules,dept, year})
     console.log(TimeTable_item) ;
-    res.send(ans) ;
+    res.send(TimeTable_item) ;
 })
 
 
