@@ -8,6 +8,8 @@ const router = express.Router() ;
 
 router.post("/generate" ,async (req,res)=>{
 
+    console.log("Generating TimeTable") ;
+    console.log(req.body) ;
     const {dept ,year} = req.body ;
 
     const ans = [] ;

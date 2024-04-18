@@ -13,6 +13,7 @@ router.post("/insert" ,async (req,res)=>{
 })
 
 router.post("/get" ,async (req,res)=>{
+    console.log("wr") ;
     const {dept ,year} = req.body ;
 
     const item =  await Lab.find({dept ,year}) ;
