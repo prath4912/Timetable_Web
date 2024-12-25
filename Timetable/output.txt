@@ -1,0 +1,36 @@
+
+Timetable:
+Timeslots / Days    Monday              Tuesday            Wednesday             Thursday               Friday             Saturday
+  10 - 11      DSBDA         D1  ELECTIVE         E1       LP2      Blank     DSBDL      Blank     Blank      Blank  ELECTIVE         E1
+  10 - 11   ELECTIVE         E1        AI         A1       LP2      Blank     DSBDL      Blank     Blank      Blank        AI         A1
+  10 - 11         WT         W1        WT         W1        WT         W1     Blank      Blank     Blank      Blank     DSBDA         D1
+  10 - 11         AI         A1     DSBDA         D1     Blank      Blank     Blank      Blank     Blank      Blank     Blank      Blank
+  10 - 11        WTL      Blank     DSBDL      Blank     Blank      Blank     Blank      Blank     DSBDL      Blank       LP2      Blank
+  10 - 11        WTL      Blank     DSBDL      Blank     Blank      Blank     Blank      Blank     DSBDL      Blank       LP2      Blank
+
+Timetable:
+Timeslots / Days    Monday              Tuesday            Wednesday             Thursday               Friday             Saturday
+  10 - 11   ELECTIVE         E1     Blank      Blank     Blank      Blank     Blank      Blank     DSBDA         D1     Blank      Blank
+  10 - 11      Blank      Blank     Blank      Blank     Blank      Blank     Blank      Blank     Blank      Blank        WT         W1
+  10 - 11         AI         A1     DSBDL      Blank     Blank      Blank       WTL      Blank        AI         A1        AI         A1
+  10 - 11      Blank      Blank     DSBDL      Blank  ELECTIVE         E1       WTL      Blank        WT         W1     DSBDA         D1
+  10 - 11      DSBDL      Blank     Blank      Blank       LP2      Blank     DSBDA         D1     DSBDL      Blank       LP2      Blank
+  10 - 11      DSBDL      Blank  ELECTIVE         E1       LP2      Blank        WT         W1     DSBDL      Blank       LP2      Blank
+
+Timetable:
+Timeslots / Days    Monday              Tuesday            Wednesday             Thursday               Friday             Saturday
+  10 - 11         WT         W1     DSBDL      Blank     DSBDL      Blank  ELECTIVE         E1       WTL      Blank        AI         A1
+  10 - 11         AI         A1     DSBDL      Blank     DSBDL      Blank     Blank      Blank       WTL      Blank     Blank      Blank
+  10 - 11      Blank      Blank     Blank      Blank     Blank      Blank       LP2      Blank     Blank      Blank     DSBDL      Blank
+  10 - 11      Blank      Blank        AI         A1     DSBDA         D1       LP2      Blank     Blank      Blank     DSBDL      Blank
+  10 - 11        LP2      Blank        WT         W1  ELECTIVE         E1     Blank      Blank     Blank      Blank     Blank      Blank
+  10 - 11        LP2      Blank     DSBDA         D1     Blank      Blank     DSBDA         D1  ELECTIVE         E1        WT         W1
+
+Timetable:
+Timeslots / Days    Monday              Tuesday            Wednesday             Thursday               Friday             Saturday
+  10 - 11         AI         A1     Blank      Blank     DSBDA         D1     Blank      Blank        WT         W1     Blank      Blank
+  10 - 11      Blank      Blank     DSBDA         D1        AI         A1        WT         W1     Blank      Blank     Blank      Blank
+  10 - 11        WTL      Blank     DSBDL      Blank       LP2      Blank     DSBDL      Blank     Blank      Blank       LP2      Blank
+  10 - 11        WTL      Blank     DSBDL      Blank       LP2      Blank     DSBDL      Blank  ELECTIVE         E1       LP2      Blank
+  10 - 11      Blank      Blank        AI         A1     Blank      Blank     Blank      Blank     DSBDL      Blank     Blank      Blank
+  10 - 11      DSBDA         D1     Blank      Blank        WT         W1  ELECTIVE         E1     DSBDL      Blank  ELECTIVE         E1
