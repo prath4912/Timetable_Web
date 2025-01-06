@@ -1,0 +1,22 @@
+.bg {
+    background-image: url('./Assets/bg.png');
+   background-repeat: no-repeat;
+   background-size: contain;
+   
+  }
+   
+
+  ::-webkit-scrollbar {
+    width: 5px;
+  }
+  ::-webkit-scrollbar-track {
+    background: #1a161600;
+  }
+  ::-webkit-scrollbar-thumb {
+    background: #888;
+    border-radius: 5px;
+  }
+  
+  ::-webkit-scrollbar-thumb:hover{
+    background: #5e5e5e;
+  }
